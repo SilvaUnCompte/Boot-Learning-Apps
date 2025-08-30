@@ -12,8 +12,8 @@ Boot-Learning-Apps/
 ├── run_all_scripts.py              # Script to run all learning scripts.
 ├── scripts/
 │   ├── english_basics.py           # Example: English basics.
-│   ├── vocabulaire.xlsx            # Example: Tools to practice vocabulary (current in French)
-│   ├── vocabulary.py               # Excel file containing vocabulary to study.
+│   ├── vocabulary.py               # Example: Tools to practice vocabulary (current in French)
+│   ├── vocabulaire.xlsx            # Excel file containing vocabulary to study.
 ```
 
 ## Requirements
